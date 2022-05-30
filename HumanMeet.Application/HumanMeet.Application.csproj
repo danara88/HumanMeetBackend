@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanMeet.Domain\HumanMeet.Domain.csproj" />
+    <ProjectReference Include="..\HumanMeet.Infrastructure\HumanMeet.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
